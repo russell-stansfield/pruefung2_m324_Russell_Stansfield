@@ -1,0 +1,1 @@
+Super Lint besteht aus einer Sammelung von Linter und Code Analyzers die Einem helfen beim validieren und fehler behebung von Code. Es gehört zu CI weil es ein Sammelung von Linters und Code Analyzers die automatisch helfen bei der Code schreibung.
